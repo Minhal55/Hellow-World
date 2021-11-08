@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "oopExample/1.0.0": {
+      "Hellow World/1.0.0": {
         "runtime": {
-          "oopExample.dll": {}
+          "Hellow World.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "oopExample/1.0.0": {
+    "Hellow World/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

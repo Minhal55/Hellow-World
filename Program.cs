@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace oopExample
+namespace Hellow_World
 {
     class Program
     {

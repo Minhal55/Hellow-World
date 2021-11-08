@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\oopExample\\oopExample.csproj": {}
+    "D:\\Hellow World\\Hellow World.csproj": {}
   },
   "projects": {
-    "D:\\oopExample\\oopExample.csproj": {
+    "D:\\Hellow World\\Hellow World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\oopExample\\oopExample.csproj",
-        "projectName": "oopExample",
-        "projectPath": "D:\\oopExample\\oopExample.csproj",
+        "projectUniqueName": "D:\\Hellow World\\Hellow World.csproj",
+        "projectName": "Hellow World",
+        "projectPath": "D:\\Hellow World\\Hellow World.csproj",
         "packagesPath": "C:\\Users\\DeCeNt\\.nuget\\packages\\",
-        "outputPath": "D:\\oopExample\\obj\\",
+        "outputPath": "D:\\Hellow World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DeCeNt\\AppData\\Roaming\\NuGet\\NuGet.Config"
